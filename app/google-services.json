@@ -1,0 +1,102 @@
+{
+  "project_info": {
+    "project_number": "675684221020",
+    "firebase_url": "https://admob-app-id-5750312061.firebaseio.com",
+    "project_id": "admob-app-id-5750312061",
+    "storage_bucket": "admob-app-id-5750312061.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:675684221020:android:168e6fafdf021f20",
+        "android_client_info": {
+          "package_name": "com.teerayut.soccerleague"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "675684221020-8h9t6ho0abpit680kibau0ft0hamdn1d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.teerayut.soccerleague",
+            "certificate_hash": "40fcaebe36879e99ed9d085c28b9ceb88380bc76"
+          }
+        },
+        {
+          "client_id": "675684221020-f6o3orjkbhjbmsj8msav7fpabhq7dcrm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.teerayut.soccerleague",
+            "certificate_hash": "5dbd437e5e38df13fadea78acce49411ee7f1f03"
+          }
+        },
+        {
+          "client_id": "675684221020-ih151v0uiahaukdprm4f38fg1ccl9lfv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAF4HOaVgk1sdZzyMU86_NZfoytQ9gl7dQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:675684221020:android:743e1d3018b27de9",
+        "android_client_info": {
+          "package_name": "dev.teerayut.pml"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "675684221020-efpmp4idekips8a586g0ti2j3mo15hqu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "dev.teerayut.pml",
+            "certificate_hash": "40fcaebe36879e99ed9d085c28b9ceb88380bc76"
+          }
+        },
+        {
+          "client_id": "675684221020-ih151v0uiahaukdprm4f38fg1ccl9lfv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAF4HOaVgk1sdZzyMU86_NZfoytQ9gl7dQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "675684221020-ih151v0uiahaukdprm4f38fg1ccl9lfv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

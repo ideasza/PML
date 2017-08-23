@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">PML</string>
+
+    <string name="dialog_title_warning">Warning!</string>
+    <string name="dialog_title_error">Error</string>
+    <string name="dialog_title_success">Success</string>
+    <string name="dialog_text_msg">Internet not connect. \n Please try again.</string>
+    <string name="dialog_button_cancel">No</string>
+    <string name="dialog_button_confirm">Settings</string>
+
+    <string name="title_fixtures">Macths</string>
+    <string name="title_table">Table</string>
+    <string name="title_recent">Recent Match</string>
+</resources>
